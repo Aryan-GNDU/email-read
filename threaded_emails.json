@@ -1,0 +1,49 @@
+[
+  {
+    "Thread": "welcome",
+    "Messages": [
+      {
+        "Type": "new",
+        "ReplyTo": null,
+        "From": "Aryan Katoch <aryankatoch22440@gmail.com>",
+        "To": "aryantmotions@gmail.com",
+        "Date": "Fri, 25 Jul 2025 15:16:01 +0530",
+        "Body": "I can help you draft an email to introduce yourself on Gmail. What would\r\nyou like the email to say?",
+        "Attachments": [],
+        "AttachmentFolder": "attachments\\welcome\\0"
+      },
+      {
+        "Type": "new",
+        "ReplyTo": null,
+        "From": "Aryan Katoch <aryantmotions@gmail.com>",
+        "To": "Aryan Katoch <aryankatoch22440@gmail.com>",
+        "Date": "Mon, 28 Jul 2025 10:29:08 +0530",
+        "Body": "apne khas",
+        "Attachments": [],
+        "AttachmentFolder": "attachments\\welcome\\2"
+      },
+      {
+        "Type": "reply",
+        "ReplyTo": "<CAH0+qpnGaSy6bbM-qYwPBGgLcMg985zf8vHgWaUmp5LD3zihgA@mail.gmail.com>",
+        "From": "Aryan Katoch <aryankatoch22440@gmail.com>",
+        "To": "Aryan Katoch <aryantmotions@gmail.com>",
+        "Date": "Mon, 28 Jul 2025 17:24:45 +0530",
+        "Body": "As per your request, here is a test email object.\r\n\r\nBest regards,\r\nAryan\r\n\r\n\r\n\r\nOn Mon, Jul 28, 2025 at 10:29 AM Aryan Katoch <aryantmotions@gmail.com>\r\nwrote:\r\n\r\n> apne khas\r\n>",
+        "Attachments": [
+          "AryanKatochResume (1).pdf"
+        ],
+        "AttachmentFolder": "attachments\\welcome\\1"
+      },
+      {
+        "Type": "reply",
+        "ReplyTo": "<CAHqJNaN1qD6kTBX9Qrks3xtj0=Vsn3mWoofoDFyZWD4e+W70Bw@mail.gmail.com>",
+        "From": "Aryan Katoch <aryantmotions@gmail.com>",
+        "To": "Aryan Katoch <aryankatoch22440@gmail.com>",
+        "Date": "Mon, 28 Jul 2025 17:31:28 +0530",
+        "Body": "ohh great thankyou so much\r\n\r\nOn Mon, Jul 28, 2025 at 5:25 PM Aryan Katoch <aryankatoch22440@gmail.com>\r\nwrote:\r\n\r\n> As per your request, here is a test email object.\r\n>\r\n> Best regards,\r\n> Aryan\r\n>\r\n>\r\n>\r\n> On Mon, Jul 28, 2025 at 10:29 AM Aryan Katoch <aryantmotions@gmail.com>\r\n> wrote:\r\n>\r\n>> apne khas\r\n>>\r\n>",
+        "Attachments": [],
+        "AttachmentFolder": "attachments\\welcome\\3"
+      }
+    ]
+  }
+]
