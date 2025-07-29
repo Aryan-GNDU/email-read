@@ -1,48 +1,84 @@
 [
   {
-    "Thread": "welcome",
-    "Messages": [
+    "Thread": "meeting",
+    "Chains": [
       {
-        "Type": "new",
-        "ReplyTo": null,
-        "From": "Aryan Katoch <aryankatoch22440@gmail.com>",
-        "To": "aryantmotions@gmail.com",
-        "Date": "Fri, 25 Jul 2025 15:16:01 +0530",
-        "Body": "I can help you draft an email to introduce yourself on Gmail. What would\r\nyou like the email to say?",
-        "Attachments": [],
-        "AttachmentFolder": "attachments\\welcome\\0"
+        "Type": "New Mail",
+        "Messages": [
+          {
+            "Type": "new",
+            "From": "Aryan Katoch <aryankatoch22440@gmail.com>",
+            "To": "aryantmotions@gmail.com",
+            "Date": "Tue, 29 Jul 2025 15:51:15 +0530",
+            "Body": "Dear person,\r\n\r\nI am writing to let you know that I will not be able to attend the meeting\r\nscheduled for 3 PM today. Could we please postpone it to another time?\r\n\r\nThank you for your understanding.\r\n\r\nBest regards,\r\nAryan",
+            "Attachments": [],
+            "AttachmentFolder": "attachments\\meeting\\0",
+            "MessageID": "<CAHqJNaOB6WJ_rULMQAOuCWLRs8O4eJPAhxEHjaHfk7k3eqpCsA@mail.gmail.com>",
+            "ReplyTo": ""
+          },
+          {
+            "Type": "reply",
+            "From": "Aryan Katoch <aryantmotions@gmail.com>",
+            "To": "Aryan Katoch <aryankatoch22440@gmail.com>",
+            "Date": "Tue, 29 Jul 2025 15:53:12 +0530",
+            "Body": "okay no issue\r\nwe can reschedule it tomorrow if you are okay with that\r\nregards\r\n\r\nOn Tue, Jul 29, 2025 at 3:51 PM Aryan Katoch <aryankatoch22440@gmail.com>\r\nwrote:\r\n\r\n> Dear person,\r\n>\r\n> I am writing to let you know that I will not be able to attend the meeting\r\n> scheduled for 3 PM today. Could we please postpone it to another time?\r\n>\r\n> Thank you for your understanding.\r\n>\r\n> Best regards,\r\n> Aryan\r\n>\r\n>\r\n>",
+            "Attachments": [],
+            "AttachmentFolder": "attachments\\meeting\\3",
+            "MessageID": "<CAH0+qpmTo28GQcxbjWtAkdj+3WqPhSNGVj9VP_2Zs+eRTJG3iQ@mail.gmail.com>",
+            "ReplyTo": "<CAHqJNaOB6WJ_rULMQAOuCWLRs8O4eJPAhxEHjaHfk7k3eqpCsA@mail.gmail.com>"
+          },
+          {
+            "Type": "reply",
+            "From": "Aryan Katoch <aryankatoch22440@gmail.com>",
+            "To": "Aryan Katoch <aryantmotions@gmail.com>",
+            "Date": "Tue, 29 Jul 2025 15:54:19 +0530",
+            "Body": "I will not be available tomorrow. I'm on leave lets do it today.\r\n\r\nOn Tue, Jul 29, 2025 at 3:53 PM Aryan Katoch <aryantmotions@gmail.com>\r\nwrote:\r\n\r\n> okay no issue\r\n> we can reschedule it tomorrow if you are okay with that\r\n> regards\r\n>\r\n> On Tue, Jul 29, 2025 at 3:51 PM Aryan Katoch <aryankatoch22440@gmail.com>\r\n> wrote:\r\n>\r\n>> Dear person,\r\n>>\r\n>> I am writing to let you know that I will not be able to attend the\r\n>> meeting scheduled for 3 PM today. Could we please postpone it to another\r\n>> time?\r\n>>\r\n>> Thank you for your understanding.\r\n>>\r\n>> Best regards,\r\n>> Aryan\r\n>>\r\n>>\r\n>>",
+            "Attachments": [],
+            "AttachmentFolder": "attachments\\meeting\\1",
+            "MessageID": "<CAHqJNaMvcgXJsMUficgNE0NjEAnKbnxMD=HHuJuOYnWWCLNPCA@mail.gmail.com>",
+            "ReplyTo": "<CAH0+qpmTo28GQcxbjWtAkdj+3WqPhSNGVj9VP_2Zs+eRTJG3iQ@mail.gmail.com>"
+          },
+          {
+            "Type": "reply",
+            "From": "Aryan Katoch <aryantmotions@gmail.com>",
+            "To": "Aryan Katoch <aryankatoch22440@gmail.com>",
+            "Date": "Tue, 29 Jul 2025 15:55:58 +0530",
+            "Body": "Ok, no problem.\r\nPlease tell me time for today the schedule is this\r\nOn Tue, Jul 29, 2025 at 3:54 PM Aryan Katoch <aryankatoch22440@gmail.com>\r\nwrote:\r\n\r\n> I will not be available tomorrow. I'm on leave lets do it today.\r\n>\r\n> On Tue, Jul 29, 2025 at 3:53 PM Aryan Katoch <aryantmotions@gmail.com>\r\n> wrote:\r\n>\r\n>> okay no issue\r\n>> we can reschedule it tomorrow if you are okay with that\r\n>> regards\r\n>>\r\n>> On Tue, Jul 29, 2025 at 3:51 PM Aryan Katoch <aryankatoch22440@gmail.com>\r\n>> wrote:\r\n>>\r\n>>> Dear person,\r\n>>>\r\n>>> I am writing to let you know that I will not be able to attend the\r\n>>> meeting scheduled for 3 PM today. Could we please postpone it to another\r\n>>> time?\r\n>>>\r\n>>> Thank you for your understanding.\r\n>>>\r\n>>> Best regards,\r\n>>> Aryan\r\n>>>\r\n>>>\r\n>>>",
+            "Attachments": [
+              "hh.jpg"
+            ],
+            "AttachmentFolder": "attachments\\meeting\\4",
+            "MessageID": "<CAH0+qpmNTv2QsGSSN-VRg5m9AU4JKcNBowZwn2zAaDCB42k1Lw@mail.gmail.com>",
+            "ReplyTo": "<CAHqJNaMvcgXJsMUficgNE0NjEAnKbnxMD=HHuJuOYnWWCLNPCA@mail.gmail.com>"
+          },
+          {
+            "Type": "reply",
+            "From": "Aryan Katoch <aryankatoch22440@gmail.com>",
+            "To": "Aryan Katoch <aryantmotions@gmail.com>",
+            "Date": "Tue, 29 Jul 2025 15:57:56 +0530",
+            "Body": "Im available after 6 so lets meet at 6.30\r\nregards\r\n\r\nOn Tue, Jul 29, 2025 at 3:56 PM Aryan Katoch <aryantmotions@gmail.com>\r\nwrote:\r\n\r\n> Ok, no problem.\r\n> Please tell me time for today the schedule is this\r\n> On Tue, Jul 29, 2025 at 3:54 PM Aryan Katoch <aryankatoch22440@gmail.com>\r\n> wrote:\r\n>\r\n>> I will not be available tomorrow. I'm on leave lets do it today.\r\n>>\r\n>> On Tue, Jul 29, 2025 at 3:53 PM Aryan Katoch <aryantmotions@gmail.com>\r\n>> wrote:\r\n>>\r\n>>> okay no issue\r\n>>> we can reschedule it tomorrow if you are okay with that\r\n>>> regards\r\n>>>\r\n>>> On Tue, Jul 29, 2025 at 3:51 PM Aryan Katoch <aryankatoch22440@gmail.com>\r\n>>> wrote:\r\n>>>\r\n>>>> Dear person,\r\n>>>>\r\n>>>> I am writing to let you know that I will not be able to attend the\r\n>>>> meeting scheduled for 3 PM today. Could we please postpone it to another\r\n>>>> time?\r\n>>>>\r\n>>>> Thank you for your understanding.\r\n>>>>\r\n>>>> Best regards,\r\n>>>> Aryan\r\n>>>>\r\n>>>>\r\n>>>>",
+            "Attachments": [],
+            "AttachmentFolder": "attachments\\meeting\\2",
+            "MessageID": "<CAHqJNaMzLEmi5m40TzhnGtosx3-hBGzVvA5d5J1nxc0KKTfokA@mail.gmail.com>",
+            "ReplyTo": "<CAH0+qpmNTv2QsGSSN-VRg5m9AU4JKcNBowZwn2zAaDCB42k1Lw@mail.gmail.com>"
+          }
+        ]
       },
       {
-        "Type": "new",
-        "ReplyTo": null,
-        "From": "Aryan Katoch <aryantmotions@gmail.com>",
-        "To": "Aryan Katoch <aryankatoch22440@gmail.com>",
-        "Date": "Mon, 28 Jul 2025 10:29:08 +0530",
-        "Body": "apne khas",
-        "Attachments": [],
-        "AttachmentFolder": "attachments\\welcome\\2"
-      },
-      {
-        "Type": "reply",
-        "ReplyTo": "<CAH0+qpnGaSy6bbM-qYwPBGgLcMg985zf8vHgWaUmp5LD3zihgA@mail.gmail.com>",
-        "From": "Aryan Katoch <aryankatoch22440@gmail.com>",
-        "To": "Aryan Katoch <aryantmotions@gmail.com>",
-        "Date": "Mon, 28 Jul 2025 17:24:45 +0530",
-        "Body": "As per your request, here is a test email object.\r\n\r\nBest regards,\r\nAryan\r\n\r\n\r\n\r\nOn Mon, Jul 28, 2025 at 10:29 AM Aryan Katoch <aryantmotions@gmail.com>\r\nwrote:\r\n\r\n> apne khas\r\n>",
-        "Attachments": [
-          "AryanKatochResume (1).pdf"
-        ],
-        "AttachmentFolder": "attachments\\welcome\\1"
-      },
-      {
-        "Type": "reply",
-        "ReplyTo": "<CAHqJNaN1qD6kTBX9Qrks3xtj0=Vsn3mWoofoDFyZWD4e+W70Bw@mail.gmail.com>",
-        "From": "Aryan Katoch <aryantmotions@gmail.com>",
-        "To": "Aryan Katoch <aryankatoch22440@gmail.com>",
-        "Date": "Mon, 28 Jul 2025 17:31:28 +0530",
-        "Body": "ohh great thankyou so much\r\n\r\nOn Mon, Jul 28, 2025 at 5:25 PM Aryan Katoch <aryankatoch22440@gmail.com>\r\nwrote:\r\n\r\n> As per your request, here is a test email object.\r\n>\r\n> Best regards,\r\n> Aryan\r\n>\r\n>\r\n>\r\n> On Mon, Jul 28, 2025 at 10:29 AM Aryan Katoch <aryantmotions@gmail.com>\r\n> wrote:\r\n>\r\n>> apne khas\r\n>>\r\n>",
-        "Attachments": [],
-        "AttachmentFolder": "attachments\\welcome\\3"
+        "Type": "New Mail",
+        "Messages": [
+          {
+            "Type": "new",
+            "From": "Aryan Katoch <aryantmotions@gmail.com>",
+            "To": "Aryan Katoch <aryankatoch22440@gmail.com>",
+            "Date": "Tue, 29 Jul 2025 16:04:13 +0530",
+            "Body": "when are we both free ?",
+            "Attachments": [],
+            "AttachmentFolder": "attachments\\meeting\\5",
+            "MessageID": "<CAH0+qp=dcw1xKCqV-3QDEYKJwq4Ctbn_Gn7Z_NtF3J1R_kborg@mail.gmail.com>",
+            "ReplyTo": ""
+          }
+        ]
       }
     ]
   }
